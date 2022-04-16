@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RDB</string>
+    <string name="adding_new_notes">adding_new_notes</string>
 </resources>
