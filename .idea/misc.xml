@@ -3,7 +3,12 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Vishal/RDB/app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.1" />
+        <entry key="..\:/Users/Vishal/RDB/app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.1" />
+        <entry key="..\:/Users/Vishal/RDB/app/src/main/res/layout/activity_editoractivity.xml" value="0.10989583333333333" />
         <entry key="..\:/Users/Vishal/RDB/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/Vishal/RDB/app/src/main/res/layout/content_scrolling.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/Vishal/RDB/app/src/main/res/layout/note_list_item.xml" value="0.4" />
       </map>
     </option>
   </component>
